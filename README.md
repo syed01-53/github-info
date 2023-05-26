@@ -1,3 +1,14 @@
+<!-- go to web github -->
+#create account 
+<!-- go to repositories  -->
+#create new repo
+#select your need base options 
+
+create 
+
+link generate for yiur git repo 
+
+
 # github-info
 
 git init 
