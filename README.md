@@ -35,3 +35,6 @@ git diff   <br>
 git add file name   <br>
 git commit -m " as you right   <br>
 git push origin master   <br>
+
+<h1>take file from your repo lo local storage </h1>
+git pull origin
