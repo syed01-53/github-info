@@ -1,3 +1,7 @@
+$working with gitbash and github 
+
+
+
 <!-- go to web github -->
 #create account 
 <!-- go to repositories  -->
@@ -15,6 +19,9 @@ git init
 git status
 <!-- to add all file in  -->
 git add -A 
+git status
+<!--  -->
+git config --global user.email "--"
 <!-- add commit in in repo -->
 git commit -m "work compelete "
 git remote add origin  link (your create repo link)
