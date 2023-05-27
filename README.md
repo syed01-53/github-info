@@ -28,8 +28,8 @@ git remote add origin  link (your create repo link)
 git push -u origin master 
 
 <h1>add new repo </h1>
-git status 
-git diff 
-git add file name 
-git commit -m " as you right 
-git push origin master
+git status   <br>
+git diff   <br>
+git add file name   <br>
+git commit -m " as you right   <br>
+git push origin master   <br>
