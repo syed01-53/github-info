@@ -40,5 +40,8 @@ git push origin master   <br>
 git pull origin
 
 <h3> past on git bash </h3>
-<p style="color:"blue"">shift +insert </p>key that we use
+shift +insert key that we use
+#know about git 
+git logo --oneline
+#git 
  
