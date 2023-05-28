@@ -32,9 +32,13 @@ git push -u origin master   <br>
 <h1>add new repo </h1>
 git status   <br>
 git diff   <br>
-git add file name   <br>
+git add .  <br>
 git commit -m " as you right   <br>
 git push origin master   <br>
 
 <h1>take file from your repo lo local storage </h1>
 git pull origin
+
+<h3> past on git bash </h3>
+<p style="color:"blue"">shift +insert </p>key that we use
+ 
