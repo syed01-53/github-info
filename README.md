@@ -39,9 +39,10 @@ git push origin master   <br>
 <h1>take file from your repo lo local storage </h1>
 git pull origin
 
-<h3> past on git bash </h3>
+<h2> past on git bash </h3>
 shift +insert key that we use
-#know about git 
+<h2>know about git </h2>
 git logo --oneline
-#git 
+<h2> git help </h2>
+git --help
  
