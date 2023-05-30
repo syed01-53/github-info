@@ -46,9 +46,10 @@ git logo --oneline
 <h2> git help </h2>
 git --help
  
-< h1>How to make ssh  </h1>
+<h1>How to make ssh</h1>
 **Enter your mail** <br>ssh-keygen -t rsa -b 4096 -C "mail"
 **Enter folder name wher your save **<br>
-**enter anything to make strong public and private key two time **
-open user folder and open user folder and open ssh foder name whic you giv to it  
+**enter anything to make strong public and private key two time ** <br>
+open user folder and open user folder and open ssh foder name whic you giv to it   <br>
+copy public key and past  in ssh key page on git hub <br>
 
