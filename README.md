@@ -54,3 +54,6 @@ open git bash
 open user folder and open user folder and open ssh foder name whic you giv to it   <br>
 copy public key and past  in ssh key page on git hub <br>
 
+<h1>About git ssh </h1>
+Using the SSH protocol, you can connect and authenticate to remote servers and services. With SSH keys, <br> you can connect to GitHub without supplying your username and personal access token at each visit.<br> You can also use an SSH key to sign commits.
+
