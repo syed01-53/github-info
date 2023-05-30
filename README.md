@@ -45,7 +45,7 @@ shift +insert key that we use
 git logo --oneline
 <h2> git help </h2>
 git --help
- 
+<!-- ssh error occur during git cloning  -->
 <h1>How to make ssh</h1>
 open git bash 
 **Enter your mail:** <br>ssh-keygen -t rsa -b 4096 -C "mail"
