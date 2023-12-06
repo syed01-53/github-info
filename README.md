@@ -1,42 +1,41 @@
-
-<h1> first step</h1>
-$working with gitbash and github 
-
+# first step
+working with git bash and GitHub 
 
 
-<!-- go to web github -->
+
+<!-- go to web GitHub -->
 #create account <br>
 <!-- go to repositories  -->
-#create new repo  <br>
-#select your need base options   <br>
+#create new repo  
+#select your need base options   
 
-create  <br>
+create  
 
 link generate for y0ur git repo  <br>
 
 
-# github-info  <br>
+# GitHub-info 
 
-git init  <br>
-git status  <br>
-<!-- to add all file in  -->
+git init  
+git status  
+<!-- to add all files in  -->
 git add -A   <br>
 git status  <br>
 <!--  -->
 git config --global user.email "--"  <br>
 <!-- add commit in in repo -->
-git commit -m "work compelete "  <br>
-git remote add origin  link (your create repo link)  <br>
+git commit -m "work complete "  <br>
+git remote add origin  link (you create repo link)  <br>
 git push -u origin master   <br>
 
-<h1>add new repo </h1>
+#add new repo 
 git status   <br>
 git diff   <br>
 git add .  <br>
-git commit -m " as you right   <br>
-git push origin master   <br>
+git commit -m " as you right   
+git push origin master   
 
-<h1>take file from your repo lo local storage </h1>
+# Take file from your repo to local storage 
 git pull origin
 
 <h2> past on git bash </h3>
@@ -45,15 +44,17 @@ shift +insert key that we use
 git logo --oneline
 <h2> git help </h2>
 git --help
-<!-- ssh error occur during git cloning  -->
-<h1>How to make ssh</h1>
+<!-- ssh error occurs during git cloning  -->
+#How to make ssh
 open git bash 
 **Enter your mail:** <br>ssh-keygen -t rsa -b 4096 -C "mail"
-**Enter folder name wher your save **<br>
+**Enter folder name where you save **<br>
 **enter anything to make strong public and private key two time ** <br>
-open user folder and open user folder and open ssh foder name whic you giv to it   <br>
-copy public key and past  in ssh key page on git hub <br>
+open the user folder and open user folder and open ssh foder name which you give to it   <br>
+copy public key and past  in SSH key page on git hub <br>
 
 <h1>About git ssh </h1>
 Using the SSH protocol, you can connect and authenticate to remote servers and services. With SSH keys, <br> you can connect to GitHub without supplying your username and personal access token at each visit.<br> You can also use an SSH key to sign commits.
+
+
 
