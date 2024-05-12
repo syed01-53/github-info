@@ -44,6 +44,8 @@ shift +insert key that we use
 git logo --oneline
 <h2> git help </h2>
 git --help
+<!--for large size of git  -->
+**using lstf commonds on it
 <!-- ssh error occurs during git cloning  -->
 #How to make ssh
 open git bash 
